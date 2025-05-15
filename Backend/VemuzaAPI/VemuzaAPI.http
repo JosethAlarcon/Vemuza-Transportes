@@ -1,0 +1,6 @@
+@VemuzaAPI_HostAddress = http://localhost:5271
+
+GET {{VemuzaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
